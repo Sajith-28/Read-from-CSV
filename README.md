@@ -28,3 +28,4 @@ print("Rows=",len(df.axes[1]))
 ## OUTPUT:
 ![alt text](<exp 12.png>)
 ## RESULT:
+Thus the program is written to read the csv file.
